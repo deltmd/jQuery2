@@ -37,7 +37,7 @@ Now that we've made our basic files, we want to get them all hooked together in 
 #Step 2
 ###Time For jQuery
 
-Now that we have our environment set up and our markup written, it's time to use some jQuery. 
+Now that we have our environment set up and our markup written, it's time to use some jQuery.
 
 The first thing we want to do is go into our scripts.js file and create our document ready function:
 
@@ -92,7 +92,7 @@ Let's hop over to our index.html and create a space for them to type in their li
 	</div>
 </section>
 ```
-
+>
 This will create a form with a save and cancel button. We want to give the save and cancel buttons IDs so that we can call them with jQuery. We also want to give the form an ID so it can be accessed as well.
 
 You will come to see that most elements in our html will have an ID. That is so that jQuery has a lot of hooks to make contact with what it is looking to manipulate.
